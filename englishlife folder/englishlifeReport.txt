@@ -1,0 +1,40 @@
+Report created: 
+	01.07.2021	19:40:48
+
+Project name: englishlife.aep
+
+Source files collected to: 
+	C:\AE\Готовое\englishlife folder
+
+Source files collected: All
+
+Collected comps:  
+	all
+	Pre-comp 1
+	Pre-comp 2
+	circle1
+	вращающиеся диски
+	english life
+	inter
+	Pre-comp 3
+	готово2
+	
+Number of collected files:  1
+
+Size of collected files:  207 KB
+
+Collected source files: 
+	C:\AE\05 project english life\english life.jpg
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Change to Color
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Impact”, Font style: “Regular”
+
